@@ -23,7 +23,7 @@ This project focuses on analyzing e-commerce sales data to uncover insights rela
 ##  Dataset
 - Details.csv (product, category, payment data)
 - Orders.csv (order-level transaction data)
-- 
+
 ## Data Modeling
 -- Combined multiple datasets using relationships in Power BI for better analysis
 
