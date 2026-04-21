@@ -1,5 +1,3 @@
-# Ecommerce-Sales-Dashboard-PowerBI
-Power BI dashboard analyzing e-commerce sales data with insights on revenue, profit, and customer behavior.
 # E-commerce Sales Dashboard (Power BI)
 
 ##  Project Overview
@@ -23,7 +21,11 @@ This project focuses on analyzing e-commerce sales data to uncover insights rela
 - Highlighted areas of low performance for improvement
 
 ##  Dataset
-- The dataset used in this project contains sales, profit, customer, and product details.
+- Details.csv (product, category, payment data)
+- Orders.csv (order-level transaction data)
+- 
+## Data Modeling
+-- Combined multiple datasets using relationships in Power BI for better analysis
 
 ##  Dashboard Preview
 ![Dashboard](dashboard.png)
